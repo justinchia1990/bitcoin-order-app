@@ -8,7 +8,7 @@ sudo: required
 notifications:
   email:
     recipients:
-      - justin.chia.90@gmail.com
+      - justin.chia@ncs.com.sg
     on_success: always
     on_failure: always
 branches:
